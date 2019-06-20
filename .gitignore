@@ -1,0 +1,6 @@
+.idea
+tags
+*.pyc
+log/
+*.swp
+*.swo
